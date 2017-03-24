@@ -1,7 +1,5 @@
-require "ruby/org/version"
+require 'ruby/org/version'
 
-module Ruby
-  module Org
-    # Your code goes here...
-  end
+module Org
+  # Your code goes here...
 end

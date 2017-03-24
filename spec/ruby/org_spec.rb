@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe Ruby::Org do
+RSpec.describe Org do
   it "has a version number" do
-    expect(Ruby::Org::VERSION).not_to be nil
+    expect(Org::VERSION).not_to be nil
   end
 
   it "does something useful" do

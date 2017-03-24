@@ -5,7 +5,7 @@ require 'ruby/org/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ruby-org"
-  spec.version       = Ruby::Org::VERSION
+  spec.version       = Org::VERSION
   spec.authors       = ["Tobias Fankhänel"]
   spec.email         = ["8aviav@gmail.com"]
 

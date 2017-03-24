@@ -1,5 +1,3 @@
-module Ruby
-  module Org
-    VERSION = "0.1.0"
-  end
+module Org
+  VERSION = "0.1.0"
 end
